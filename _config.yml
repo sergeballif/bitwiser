@@ -6,7 +6,7 @@ markdown: kramdown
 highlighter: pygments
 
 ##define base_url for valid usage in sitemap.xml and robots.txt
-base_url: http://example.com
+base_url: bitwiser
 sass:
   sass_dir: _sass
   style: :compressed
@@ -36,4 +36,3 @@ about_image: placeholder.jpg
 ##comment this if you want full width posts with no sidebar
 sidebar: on
 
-baseurl: bitwiser
